@@ -1,4 +1,4 @@
-module github.com/appleboy/gofight/v2
+module github.com/appleboy/gofight
 
 go 1.13
 
